@@ -44,4 +44,6 @@ public class IsUnique {
         System.out.println(iu.isUniqueChars2(str));
     }
 
-    }
+} 
+
+
